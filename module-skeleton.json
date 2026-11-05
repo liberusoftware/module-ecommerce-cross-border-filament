@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-cross-border-filament",
+  "capabilityKey": "planned:ecommerce:cross-border",
+  "presentation": "laravel-filament",
+  "package": "liberusoftware/ecommerce-cross-border-filament",
+  "foundation": "module-boilerplate-filament",
+  "foundationCommit": "9282e55622b1abd4db48da891480cd9cac46c158",
+  "canonicalPlan": "projects/ecommerce/nextjs/cross-border.md",
+  "presentationPlan": "projects/ecommerce/filament/cross-border.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
